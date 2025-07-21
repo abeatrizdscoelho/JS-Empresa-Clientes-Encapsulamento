@@ -15,14 +15,6 @@ A proposta é criar objetos que representam uma empresa, seus clientes, seus tel
 
 <br>
 
-## 📂 Estrutura do Projeto
-**Empresa:** (Razão Social, Nome Fantasia, CNPJ (privado), Endereço, Telefones e Clientes). <br>
-**Cliente:** (Nome, CPF (privado), Endereço e Telefones). <br>
-**Telefone:** (DDD e Número). <br>
-**Endereço:** (Estado, Cidade, Rua e Número).
-
-<br>
-
 ## 🔁 Funcionalidades
 - Cadastro de uma empresa e seus clientes.
 - Armazenamento e exibição de telefones e endereços.
